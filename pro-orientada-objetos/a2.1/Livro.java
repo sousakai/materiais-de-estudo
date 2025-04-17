@@ -7,7 +7,8 @@ public class Livro {
     String gênero;
     int numeroPaginas;
 
-    // Construtor - inicializa os atributos e permite criar objetos
+    // Construtor - inicializa os atributos e permite criar objetos - sempre tem o
+    // mesmo nome da Classe
     public Livro() {
         // sem parâmetros, logo, não requer nenhuma informação para criar o objeto
         // (valores não especificados serão retornados NULL)

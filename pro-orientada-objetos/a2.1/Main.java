@@ -17,5 +17,8 @@ public class Main {
 
         System.out.println("O livro é: " + livro.titulo);
         System.out.println("Autor: " + livro.autor);
+
+        // System.out.println(livro);
+
     }
 }
